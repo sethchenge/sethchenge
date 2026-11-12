@@ -1,5 +1,5 @@
 # Hi there, I'm Seth Chenge 👋
-* 🏢 **Working with:** 𝐶EO 𝐴𝑣𝑒𝑛𝑖𝑥 𝐶𝑜𝑚𝑝𝑢𝑡𝑒𝑟𝑠 𝑎𝑛𝑑 𝑅𝑜𝑏𝑜𝑡𝑖𝑐𝑠<br>
+𝐶EO 𝐴𝑣𝑒𝑛𝑖𝑥 𝐶𝑜𝑚𝑝𝑢𝑡𝑒𝑟𝑠 𝑎𝑛𝑑 𝑅𝑜𝑏𝑜𝑡𝑖𝑐𝑠<br><br>
 I am a **Computer Science Teacher**, **Robotics Engineer**, and **IT Consultant**. I specialize in full-stack and mobile app development, creating efficient, user-friendly solutions across platforms.
 
 ### 👨‍💻 About Me
